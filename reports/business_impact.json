@@ -1,0 +1,14 @@
+{
+  "test_set_customers": 1409,
+  "target_percentile": 0.2,
+  "customers_targeted": 281,
+  "precision_at_k": 0.676,
+  "actual_churners_in_target": 190,
+  "annual_revenue_at_risk_in_target_group": 262324.2,
+  "campaign_cost": 4215,
+  "assumed_retention_success_rate": 0.35,
+  "expected_customers_saved": 66.5,
+  "expected_annual_revenue_saved": 62080.28,
+  "net_annual_impact": 57865.28,
+  "roi_multiple": 13.73
+}
