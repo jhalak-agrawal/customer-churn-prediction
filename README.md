@@ -108,10 +108,10 @@ Assumptions (clearly separated from the model so they can be swapped for real co
 - Retention offer success rate: **35%** of true churners who receive an offer are retained
 - Targeting strategy: **top 20%** of customers by predicted churn probability
 
-With these assumptions, on the held-out test set (1,409 customers): targeting the top 20% (281 customers) costs $4,215 and is projected to retain ~66 customers who would otherwise have churned, saving ~$61K in annual recurring revenue — a **net impact of ~$57K and 13.5x ROI** on that slice. Extrapolated to the full 7,043-customer base: **~$283K net annual impact**.
-
+With these assumptions, on the held-out test set (1,409 customers): targeting the top 20% (281 customers) costs $4,215 and is projected to retain about 66 customers who would otherwise have churned, saving roughly $61K in annual recurring revenue — a **net impact of about $57K and 13.5x ROI** on that slice. Extrapolated to the full 7,043-customer base: **approximately $283K net annual impact**.
+ 
 *These are illustrative assumptions for a portfolio project — in a real deployment, retention cost and success rate would come from actual campaign data (or an A/B test).*
-
+ 
 ---
 
 ## Key EDA Findings
